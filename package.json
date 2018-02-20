@@ -63,5 +63,7 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "dependencies": {}
+  "dependencies": {
+    "graceful-fs": "^4.1.11"
+  }
 }
