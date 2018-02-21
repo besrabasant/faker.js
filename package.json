@@ -62,8 +62,5 @@
         "vinyl-transform": "0.0.1"
     },
     "license": "MIT",
-    "main": "index.js",
-    "dependencies": {
-        "graceful-fs": "^4.1.11"
-    }
+    "main": "index.js"
 }
